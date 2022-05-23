@@ -9,5 +9,5 @@
 <Strong>📧Email📧</Strong><br>kim824089@gmail.com<br>
 </p>
 <h3>:raised_hands: Introduction </h3>
-안녕하세요! 세명대학교 정보통신학부에서 공부중인 초보 대학생입니다.
+안녕하세요! 세명대학교 정보통신학부에서 공부중인 초보 대학생입니다. <br>
 무엇이든지 열심히 배우려는 자세로 공부하고 있습니다!
