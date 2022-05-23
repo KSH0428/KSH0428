@@ -12,4 +12,6 @@
 안녕하세요! 세명대학교 정보통신학부에서 공부중인 초보 대학생입니다. <br>
 무엇이든지 열심히 배우려는 자세로 공부하고 있습니다! <br>
  <!--공부중 -->
- <h3>:pencil2: Studying </h3
+ <h3>:pencil2: Studying </h3>
+ https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX
+  
