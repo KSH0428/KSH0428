@@ -13,5 +13,5 @@
 무엇이든지 열심히 배우려는 자세로 공부하고 있습니다! <br>
  <!--공부중 -->
  <h3>:pencil2: Studying </h3>
- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/#A8B9CCstyle=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
