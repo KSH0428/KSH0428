@@ -14,4 +14,4 @@
  <!--공부중 -->
  <h3>:pencil2: Studying </h3>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
