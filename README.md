@@ -13,5 +13,5 @@
 무엇이든지 열심히 배우려는 자세로 공부하고 있습니다! <br>
  <!--공부중 -->
  <h3>:pencil2: Studying </h3>
- https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
   
